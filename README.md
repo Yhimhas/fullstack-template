@@ -122,7 +122,7 @@ agent 默认可以查看状态、差异和历史，也可以解释冲突，拟�
 
 不要把考核说明交给 agent 后，只要求它“全部完成”。充分讨论后形成的详细计划可以交给新会话执行，但要把能说明关键决定的讨论线索一起留下。
 
-完整的 agent 行为规则见[AGENTS.md](AGENTS.md)。原版是[模板仓库](https://github.com/Yhimhas/fullstack-template) `master` 分支最新 commit 中的固定规则，包含使用者身份核验。这里的 `master` 指模板仓库，不是你作业仓库的主分支。
+完整的 agent 行为规则见[AGENTS.md](AGENTS.md)。原版是[模板仓库](https://github.com/mel0nyrame/fullstack-template) `master` 分支最新 commit 中的固定规则，包含使用者身份核验。这里的 `master` 指模板仓库，不是你作业仓库的主分支。
 
 核对时记录实际取得的完整 commit SHA 与核对时间，不把未经更新核实的本地引用当成最新版。模板修订合入 `master` 后才成为新原版；无法查询最新结果时说明限制。发现固定区差异需要恢复并核查原因，故意绕过按违规处理。文件本身不能阻止修改，执行仍依靠规则和核查。
 
