@@ -1,3 +1,3 @@
 # AGENTS.md 固定规则区（含起止标记）的 SHA-256。
 # 负责人更新规则后重新计算。命令见 .github/workflows/check-fixed-rules.yml。
-afc5173ca28502070cd92cb8d181131d1f6f6522f83365b9d2cf68f5918b292e
+8e7a1861dd95932ec5aeebaa5fed4a8b85f5f96ea6adc790c2641d58ce02d339
