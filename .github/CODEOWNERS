@@ -1,0 +1,4 @@
+# 规则文件的改动需要负责人审查
+/AGENTS.md @mel0nyrame
+/.agents/sessions/README.md @mel0nyrame
+/.agents/sessions/TEMPLATE.md @mel0nyrame
